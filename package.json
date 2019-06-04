@@ -1,13 +1,13 @@
 {
-    "name": "project-name",
+    "name": "cloud-storage-template",
     "version": "1.0.0",
-    "description": "package for creating workers templates",
+    "description": "template to create a Cloudflare Workers script and deliver static files from cloud storage",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "format": "prettier --write '**/*.{js,css,json,md}'"
     },
-    "author": "{{ authors }}",
+    "author": "bernard.victoria22@gmail.com",
     "license": "ISC",
     "devDependencies": {
         "husky": "^2.1.0",
