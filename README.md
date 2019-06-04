@@ -9,7 +9,7 @@ Read in static files from a generic cloud storage provider. (In this example we 
 To generate using [wrangler](https://github.com/cloudflare/wrangler)
 
 ```
-wrangler generate myApp https://github.com/victoriabernard92/worker-template-cloudstorage TODO replace
+wrangler generate myApp https://github.com/victoriabernard92/worker-template-cloudstorage
 ```
 
 #### Serverless
